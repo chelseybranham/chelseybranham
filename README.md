@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chelsey</h1>
 <h3 align="center">A developer who is passionate about accessibility and equity in tech.</h3>
 
-- 🔭 I’m currently working on **a potty training app for my toddler!**
+- 🔭 I’m currently working on **building and refining my skills in dotNet and C#!**
 
-- 🌱 I’m currently learning **node.js, mongoDB**
+- 🌱 I’m currently learning **dotNet and C#**
 
 - 👯 I’m looking to collaborate on **open source projects.**
 
